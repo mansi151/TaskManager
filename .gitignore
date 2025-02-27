@@ -1,0 +1,5 @@
+crud-back/node_modules/
+crud-front/node_modules/
+
+crud-back/.env
+crud-front/.env
